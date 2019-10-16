@@ -1,0 +1,15 @@
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\bin\Release\netcoreapp2.1\Hubs.deps.json
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\bin\Release\netcoreapp2.1\Hubs.runtimeconfig.json
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\bin\Release\netcoreapp2.1\Hubs.runtimeconfig.dev.json
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\bin\Release\netcoreapp2.1\Hubs.dll
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\bin\Release\netcoreapp2.1\Hubs.pdb
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.csprojAssemblyReference.cache
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.csproj.CoreCompileInputs.cache
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.RazorAssemblyInfo.cache
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.RazorAssemblyInfo.cs
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.AssemblyInfoInputs.cache
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.AssemblyInfo.cs
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.RazorTargetAssemblyInfo.cache
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.dll
+C:\Users\Jordan 2\source\repos\ChatSignalR\Hubs\obj\Release\netcoreapp2.1\Hubs.pdb
